@@ -1,0 +1,39 @@
+h3 {
+	margin: 5px 0 0 0;
+	border: 0;
+	padding: 0;
+}
+
+table.info {
+	border-top: 2px solid #d8dfea;
+	border-bottom: 2px solid #d8dfea;
+}
+table.info td {
+	background-color: #ffffff;
+	border-bottom: 1px solid #d8dfea;
+	vertical-align: middle;
+	padding: 5px;
+	line-height: 20px;
+}
+table.info tr.head td {
+	background-color: #faf5f5;
+	border-bottom: 1px solid #c0c0c0;
+	padding: 5px;
+	line-height: 22px;
+	color: #333333;
+	font-weight: bold;
+}
+table.info tr.notice td {
+	background-color: #d8dfea;
+	color: #000000;
+}
+
+.headBox {
+	background-color: #edeff4;
+	border: 1px solid #e7e7e7;
+	border-top: 2px solid #d8dfea;
+	padding: 5px;
+}
+.extendable:hover { cursor: pointer; background-color: #d8dfea; }
+
+.menu h1:hover { cursor: pointer; color: #00427f; }
